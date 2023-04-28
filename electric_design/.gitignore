@@ -1,0 +1,13 @@
+*.job
+*.pro
+*.b#*
+*.s#*
+*.cmp
+*.drd
+*.dri
+*.gpi
+*.out
+*.plc
+*.sol
+*.stc
+*.sts
