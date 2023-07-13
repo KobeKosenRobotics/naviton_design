@@ -1,7 +1,7 @@
 # naviton_design
 [Naviton](https://github.com/KobeKosenRobotics/naviton)'s cad data and electric circuits
 
-<img src="https://github.com/KobeKosenRobotics/naviton_design/assets/36100321/15f97548-606c-4f8b-bd82-f40a30d2324a" width="50%">
+<img src="https://github.com/KobeKosenRobotics/naviton_design/assets/36100321/02c795d5-530f-4a9c-83ea-628afb680485" width="50%">
 
 ## Supporting format
 ### Hardware design
@@ -10,3 +10,4 @@
 ### Electric design
 * Autodesk Eagle(.brd .sch)
  
+
